@@ -27,7 +27,7 @@
 - 📚 Ler sobre Química
 - 📚 Ler sobre Física
 - 👻 Treinador Fantasma. Gengar é o meu favorito!
-- <img src="https://i.etsystatic.com/37293746/r/il/ee16f6/5001657580/il_1080xN.5001657580_n01t.jpg" alt="Gengar" width="200"/>
+  <img src="https://i.etsystatic.com/37293746/r/il/ee16f6/5001657580/il_1080xN.5001657580_n01t.jpg" alt="Gengar" width="200"/>
 
 ## Conquistas
 - 🏅 Medalhista na FLL 2013 em Toronto, Canadá.
