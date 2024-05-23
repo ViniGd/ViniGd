@@ -14,7 +14,6 @@
 - 🌐 HTML, CSS
 - ⚡ Conhecimento avançado na Power Platform
 - 💼 Solidworks
-- 🌐 WordPress
 - ☁️ Informática Cloud
 - ☁️ AWS
 
